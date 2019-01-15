@@ -1,12 +1,12 @@
 // ORIGINAL
 $(document).ready(function() {
   var images = [
-    "images/1.jpg",
-    "images/2.jpg",
-    "images/3.jpg",
-    "images/4.jpg",
-    "images/5.jpg",
-    "images/6.jpg",
+    "images/gal1.jpg",
+    "images/gal2.jpg",
+    "images/gal3.jpg",
+    "images/gal4.jpg",
+    "images/gal5.jpg",
+    "images/gal6.jpg",
   ];
 
   var currentIndex = 0;
