@@ -30,7 +30,7 @@ $(document).ready(function() {
 
     document.getElementById("slideshowImage").src=images[currentIndex];
   });
-
+//
 //
 //   function slideshowing ()  {
 //     currentIndex = (currentIndex+1)%(images.length);
@@ -39,5 +39,5 @@ $(document).ready(function() {
 //
 //
 // setInterval(function(){slideshowing();}, 3000);
-
+//
 });
